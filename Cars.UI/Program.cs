@@ -52,7 +52,8 @@ namespace Cars.UI
             //    string result = Logger.Buing(modellchoise); //Buy методы это всегда глаголы infinitive
             //    if (result == "продано") //лучше сделать bool isSold
             //        break;
-            //}
+            //
+	//}
         }
 
        
